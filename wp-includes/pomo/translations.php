@@ -314,8 +314,14 @@ class NOOP_Translations {
 	 * @param int    $count
 	 * @param string $context
 	 */
-	function translate_plural($singular, $plural, $count, $context = null) {
-			return 1 == $count? $singular : $plural;
+	function translate_plural($singular, $plural1, $plural2, $count, $context = null) {
+			if ($count == 1) {
+                return $singular;
+            } elseif (($count >= 2) && ($count <= 4)) {
+                return $plural1;
+            } else {
+                return $plural2;
+            }
 	}
 
 	function merge_with(&$other) {

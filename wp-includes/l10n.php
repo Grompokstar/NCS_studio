@@ -340,9 +340,9 @@ function _n( $single, $plural, $number, $domain = 'default' ) {
  * @param string $domain  Optional. Text domain. Unique identifier for retrieving translated strings.
  * @return string Either $single or $plural translated text with context.
  */
-function _nx($single, $plural, $number, $context, $domain = 'default') {
+function _nx($single, $plural1, $plural2, $number, $context, $domain = 'default') {
 	$translations = get_translations_for_domain( $domain );
-	$translation = $translations->translate_plural( $single, $plural, $number, $context );
+	$translation = $translations->translate_plural( $single, $plural1, $plural2, $number, $context );
 	/**
 	 * Filter text with its translation while plural option and context are available.
 	 *
