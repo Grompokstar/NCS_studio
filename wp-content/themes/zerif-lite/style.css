@@ -4683,3 +4683,7 @@ body.custom-background {
 a.post-edit-link {
     float: right;
 }
+
+span.comments-link {
+    float: right;
+}

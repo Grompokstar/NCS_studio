@@ -117,7 +117,7 @@
 
 				<?php printf( __( 'Posted in %1$s', 'zerif-lite' ), $categories_list ); ?>
 
-			</span>
+			</span><br>
 
 			<?php endif; // End if categories ?>
 
@@ -137,7 +137,7 @@
 
 				<?php printf( __( 'Tagged %1$s', 'zerif-lite' ), $tags_list ); ?>
 
-			</span>
+			</span><br>
 
 			<?php endif; // End if $tags_list ?>
 
