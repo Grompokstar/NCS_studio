@@ -1,0 +1,960 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zerif Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-14 12:49+0200\n"
+"PO-Revision-Date: 2015-05-28 12:21+0300\n"
+"Last-Translator: \n"
+"Language-Team: codeinwp <support@codeinwp.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: sections\n"
+"X-Poedit-SearchPath-2: inc\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ошибка! Страница не найдена."
+
+#: 404.php:25
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Похоже, ничего не найдено. Попробуйте использовать одну из ссылок или поиск?"
+
+#: archive.php:33
+#, php-format
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: archive.php:36
+#, php-format
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: archive.php:39
+#, php-format
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: archive.php:42
+#, php-format
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#: archive.php:45
+msgid "Asides"
+msgstr ""
+
+#: archive.php:48
+msgid "Galleries"
+msgstr "Галереи"
+
+#: archive.php:51
+msgid "Images"
+msgstr "Изображения"
+
+#: archive.php:54
+msgid "Videos"
+msgstr "Видео"
+
+#: archive.php:57
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: archive.php:60
+msgid "Links"
+msgstr "Ссылки"
+
+#: archive.php:63
+msgid "Statuses"
+msgstr "Статусы"
+
+#: archive.php:66
+msgid "Audios"
+msgstr "Аудио"
+
+#: archive.php:69
+msgid "Chats"
+msgstr "Чаты"
+
+#: archive.php:72
+msgid "Archives"
+msgstr "Архивы"
+
+#: class-tgm-plugin-activation.php:196 functions.php:475
+msgid "Install Required Plugins"
+msgstr "Установите необходимые плагины"
+
+#: class-tgm-plugin-activation.php:197 functions.php:477
+msgid "Install Plugins"
+msgstr "Установите плагины"
+
+#: class-tgm-plugin-activation.php:198 functions.php:479
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr "Что-то пошло не так."
+
+#: class-tgm-plugin-activation.php:210 functions.php:503
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться в установщик плагинов"
+
+#: class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr "Вернитесь в панель управления"
+
+#: class-tgm-plugin-activation.php:212 class-tgm-plugin-activation.php:1946
+#: functions.php:505
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: class-tgm-plugin-activation.php:213
+msgid "The following plugin was activated successfully:"
+msgstr "Этот плагин был успешно активирован:"
+
+#: class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и активированы успешно. %1$s"
+
+#: class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr "Отклонить данное уведомление"
+
+#: class-tgm-plugin-activation.php:541 class-tgm-plugin-activation.php:2163
+msgid "Return to the Dashboard"
+msgstr "Вернуться в панель управления"
+
+#: class-tgm-plugin-activation.php:1171
+msgid "Private Repository"
+msgstr "Частный репозиторий"
+
+#: class-tgm-plugin-activation.php:1174
+msgid "Pre-Packaged"
+msgstr "Распакованный"
+
+#: class-tgm-plugin-activation.php:1179
+msgid "WordPress Repository"
+msgstr "WordPress репозиторий"
+
+#: class-tgm-plugin-activation.php:1182
+msgid "Required"
+msgstr "Необходимый"
+
+#: class-tgm-plugin-activation.php:1182
+msgid "Recommended"
+msgstr "Рекомендуемый"
+
+#: class-tgm-plugin-activation.php:1185
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: class-tgm-plugin-activation.php:1187
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: class-tgm-plugin-activation.php:1287 class-tgm-plugin-activation.php:1395
+msgid "Install"
+msgstr "установить"
+
+#: class-tgm-plugin-activation.php:1309 class-tgm-plugin-activation.php:1396
+msgid "Activate"
+msgstr "Активировать"
+
+#: class-tgm-plugin-activation.php:1358
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Нет плагинов для установки или активации. <a href=\"%1$s\" title=\"Вернуться "
+"в панель управления\">Вернуться в панель управления</a>"
+
+#: class-tgm-plugin-activation.php:1374
+msgid "Plugin"
+msgstr "Плагин"
+
+#: class-tgm-plugin-activation.php:1375
+msgid "Source"
+msgstr "Источник"
+
+#: class-tgm-plugin-activation.php:1376
+msgid "Type"
+msgstr "Тип"
+
+#: class-tgm-plugin-activation.php:1377
+msgid "Status"
+msgstr "Статус"
+
+#: class-tgm-plugin-activation.php:1505
+msgid "No plugins are available to be installed at this time."
+msgstr "Нет плагинов, доступных для установки."
+
+#: class-tgm-plugin-activation.php:1611
+msgid "No plugins are available to be activated at this time."
+msgstr "Нет плагинов, доступных для активации."
+
+#: class-tgm-plugin-activation.php:1929
+msgid "Install package not available."
+msgstr "Установка пакета недоступна."
+
+#: class-tgm-plugin-activation.php:1930
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Скачать установочный пакет с <span class=\"code\">%s</span>&#8230;"
+
+#: class-tgm-plugin-activation.php:1931
+msgid "Unpacking the package&#8230;"
+msgstr "Распаковка пакета&#8230;"
+
+#: class-tgm-plugin-activation.php:1932
+msgid "Installing the plugin&#8230;"
+msgstr "Установка плагина&#8230;"
+
+#: class-tgm-plugin-activation.php:1933
+msgid "Plugin install failed."
+msgstr "Не удалось установить плагин."
+
+#: class-tgm-plugin-activation.php:1934
+msgid "Plugin installed successfully."
+msgstr "Плагин успешно установлен."
+
+#: class-tgm-plugin-activation.php:1945
+msgid "Plugin activation failed."
+msgstr "Не удалось активировать плагин."
+
+#: class-tgm-plugin-activation.php:2059
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Установка и активация начались. Этот процес может занятб некоторое время, "
+"пожалуйста подождите."
+
+#: class-tgm-plugin-activation.php:2060
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установка и активация прошли успешно."
+
+#: class-tgm-plugin-activation.php:2060 class-tgm-plugin-activation.php:2069
+msgid "Show Details"
+msgstr "Показать подробности"
+
+#: class-tgm-plugin-activation.php:2060 class-tgm-plugin-activation.php:2069
+msgid "Hide Details"
+msgstr "Скрыть подробности"
+
+#: class-tgm-plugin-activation.php:2061
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации завершены."
+
+#: class-tgm-plugin-activation.php:2062
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:2066
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Процесс установки начинается. Этот процесс может занять некоторое время, "
+"поэтому, пожалуйста, будьте терпеливы."
+
+#: class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Произошла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s провалена."
+
+#: class-tgm-plugin-activation.php:2069
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s установлен успешно."
+
+#: class-tgm-plugin-activation.php:2070
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#: class-tgm-plugin-activation.php:2071
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Старые комментарии"
+
+#: comments.php:37 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свой первый пост? <a href=\"%1$s\">Начать</a>."
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"К сожалению, ничего не найдено по вашему запросу. Пожалуйста, попробуйте еще "
+"раз с другими ключевыми словами."
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:18 content-single.php:1 content.php:89
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: content-page.php:23 content-single.php:1 content.php:157
+msgid "Edit"
+msgstr "Редактировать"
+
+#: content-single.php:1 content.php:111 content.php:131
+msgid ", "
+msgstr ""
+
+#: content.php:119
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Опубликовано в %1$s"
+
+#: content.php:139
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Отмечено %1$s"
+
+#: content.php:151
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: content.php:151
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: content.php:151
+msgid "% Comments"
+msgstr "% комментариев"
+
+#: footer.php:1
+msgid "powered by"
+msgstr "питание от"
+
+#: front-page.php:106
+msgid "* Please enter your name."
+msgstr "* Пожалуйста, введите ваше имя."
+
+#: front-page.php:127
+msgid "* Please enter your email address."
+msgstr "* Пожалуйста, введите ваш адрес электронной почты."
+
+#: front-page.php:136
+msgid "* You entered an invalid email address."
+msgstr "* Вы ввели неверный адрес электронной почты."
+
+#: front-page.php:157
+msgid "* Please enter a subject."
+msgstr "* Пожалуйста, введите тему сообщения."
+
+#: front-page.php:178
+msgid "* Please enter a message."
+msgstr "* Пожалуйста, введите сообщение."
+
+#: front-page.php:371
+msgid "Thanks, your email was sent successfully!"
+msgstr "Спасибо, ваше сообщение было успешно отправлено!"
+
+#: front-page.php:375
+msgid "Sorry, an error occured."
+msgstr "Извините, произошла ошибка."
+
+#: functions.php:76
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: functions.php:164
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:180
+msgid "Our focus section"
+msgstr "Секция \"Наши услуги\""
+
+#: functions.php:196
+msgid "Testimonials section"
+msgstr "Секция \"Отзывы\""
+
+#: functions.php:212
+msgid "About us section"
+msgstr "Секция \"О нас\""
+
+#: functions.php:228
+msgid "Our team section"
+msgstr "Секция \"Наша команда\""
+
+#: functions.php:481
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#: functions.php:507
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Все плагины установлены и активированы успешно. %s"
+
+#: functions.php:538
+msgid "Post details"
+msgstr "Детали записи"
+
+#: functions.php:556
+msgid "Testimonial author details:"
+msgstr "Автор отзыва:"
+
+#: functions.php:565
+msgid "Team member position:"
+msgstr "Профессия члена комнады:"
+
+#: functions.php:575
+msgid "Team member facebook link:"
+msgstr ""
+
+#: functions.php:584
+msgid "Team member twitter link:"
+msgstr ""
+
+#: functions.php:593
+msgid "Team member behance link:"
+msgstr ""
+
+#: functions.php:603
+msgid "Team member dribbble link:"
+msgstr ""
+
+#: functions.php:709
+msgid "Default title"
+msgstr "Заголовок по умолчанию"
+
+#: functions.php:856
+msgid "Title"
+msgstr "Заголовок"
+
+#: functions.php:866 functions.php:1081
+msgid "Text"
+msgstr "Текст"
+
+#: functions.php:877 functions.php:1209
+msgid "Link"
+msgstr "Ссылка"
+
+#: functions.php:885 functions.php:1091 functions.php:1221 functions.php:1537
+msgid "Image"
+msgstr "Изображение"
+
+#: functions.php:907 functions.php:1115 functions.php:1245 functions.php:1560
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: functions.php:1061
+msgid "Author"
+msgstr "Автор"
+
+#: functions.php:1071
+msgid "Author details"
+msgstr ""
+
+#: functions.php:1439
+msgid "Name"
+msgstr "Имя"
+
+#: functions.php:1451
+msgid "Position"
+msgstr "Профессия"
+
+#: functions.php:1464
+msgid "Description"
+msgstr "Описание"
+
+#: functions.php:1477
+msgid "Facebook link"
+msgstr "Ссылка на Facebook"
+
+#: functions.php:1490
+msgid "Twitter link"
+msgstr "Ссылка на Twitter"
+
+#: functions.php:1503
+msgid "Behance link"
+msgstr ""
+
+#: functions.php:1516
+msgid "Dribble link"
+msgstr ""
+
+#: functions.php:1527
+msgid "Linkedin link"
+msgstr ""
+
+#: functions.php:1607 functions.php:1608
+msgid "More Themes"
+msgstr "Другие темы"
+
+#: functions.php:1635
+msgid ""
+"Simple and effective products, no complex frameworks, no drag & drop "
+"builders."
+msgstr ""
+
+#: functions.php:1670
+msgid "Current theme"
+msgstr "Текущая тема"
+
+#: functions.php:1716
+msgid "Already installed"
+msgstr "Уже установлен"
+
+#: functions.php:1731
+msgid "Install Now"
+msgstr "Установить сейчас"
+
+#: functions.php:1735
+msgid "Live Preview"
+msgstr "Онлайн просмотр"
+
+#: header.php:1
+msgid "Toggle navigation"
+msgstr "Переключение навигации"
+
+#: search.php:24
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: sidebar.php:23
+msgid "Meta"
+msgstr "метаданные"
+
+#: inc/customizer.php:1
+msgid ""
+"Check out the <a href=\"https://themeisle.com/themes/zerif-pro-one-page-"
+"wordpress-theme/\">PRO version</a> for full control over the frontpage "
+"sections order!"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid ""
+"Check out the <a href=\"https://themeisle.com/themes/zerif-pro-one-page-"
+"wordpress-theme/\">PRO version</a> for full control over the color scheme !"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid ""
+"Check out the <a href=\"https://themeisle.com/themes/zerif-pro-one-page-"
+"wordpress-theme/\">PRO version</a> to add a google maps section !"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid ""
+"Check out the <a href=\"https://themeisle.com/themes/zerif-pro-one-page-"
+"wordpress-theme/\">PRO version</a> to add a pricing section !"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Sections order"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Colors"
+msgstr "Цвета"
+
+#: inc/customizer.php:1
+msgid "General options"
+msgstr "Общие настройки"
+
+#: inc/customizer.php:1
+msgid "Zerif theme general options"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Logo"
+msgstr "Лого"
+
+#: inc/customizer.php:1
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Dribbble link"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Email section - icon"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "support@codeinwp.com"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Email"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Phone number section - icon"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Phone number"
+msgstr "Номер телефона"
+
+#: inc/customizer.php:1
+msgid "Address section - icon"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "24B, Fainari Street, Bucharest, Romania"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Address"
+msgstr "Адрес"
+
+#: inc/customizer.php:1
+msgid "Big title section"
+msgstr "Секция заголовка"
+
+#: inc/customizer.php:1
+msgid "Hide big title section?"
+msgstr "Скрыть секцию заголовка?"
+
+#: inc/customizer.php:1 sections/big_title.php:1
+msgid "To add a title here please go to Customizer"
+msgstr ""
+
+#: inc/customizer.php:1 sections/big_title.php:1
+msgid "One button"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Red button label"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Red button link"
+msgstr ""
+
+#: inc/customizer.php:1 sections/big_title.php:1
+msgid "Another button"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Green button link"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Hide our focus section?"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Our Focus"
+msgstr "Наши услуги"
+
+#: inc/customizer.php:1 sections/our_focus.php:1
+msgid "Add a subtitle in Customizer, \"Our focus section\""
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Our focus subtitle"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Hide about us section?"
+msgstr ""
+
+#: inc/customizer.php:1 sections/about_us.php:1
+msgid "About Us"
+msgstr ""
+
+#: inc/customizer.php:1 sections/about_us.php:1
+msgid "Add a subtitle in Customizer, \"About us section\""
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: inc/customizer.php:1 sections/about_us.php:1
+msgid "In order to Change the Title here you Need to go to Customizer"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Big left side title"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid ""
+"You can add here a large piece of text. For that, please go in the Admin "
+"Area, Customizer, \"About us section\" <br/> <br/>Lorem ipsum dolor sit "
+"amet, consectetur adipiscing elit. Nunc dapibus, eros at accumsan auctor, "
+"felis eros condimentum quam, non porttitor est urna vel neque.  <br/> <br/"
+">Maecenas non tellus vitae augue tempor venenatis. Mauris ac tincidunt "
+"dolor, id feugiat odio. Mauris egestas ligula sit amet lorem condimentum "
+"ultrices"
+msgstr ""
+
+#: inc/customizer.php:1 sections/about_us.php:1
+msgid "Feature 1"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Feature no1 title"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Feature no1 text"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Feature no1 percentage"
+msgstr ""
+
+#: inc/customizer.php:1 sections/about_us.php:1
+msgid "Feature 2"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Feature no2 title"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Feature no2 text"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Feature no2 percentage"
+msgstr ""
+
+#: inc/customizer.php:1 sections/about_us.php:1
+msgid "Feature 3"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Feature no3 title"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Feature no3 text"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Feature no3 percentage"
+msgstr ""
+
+#: inc/customizer.php:1 sections/about_us.php:1
+msgid "Feature 4"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Feature no4 title"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Feature no4 text"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Feature no4 percentage"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Hide our team section?"
+msgstr ""
+
+#: inc/customizer.php:1 sections/our_team.php:1
+msgid "Our Team"
+msgstr "Наша команда"
+
+#: inc/customizer.php:1 sections/our_team.php:1
+msgid "Add a subtitle in Customizer, \"Our team section\""
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Our team subtitle"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Hide testimonials section?"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#: inc/customizer.php:1
+msgid "Testimonials subtitle"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Latest News section"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Hide latest news section?"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Latest News title"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Latest News subtitle"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Ribbon sections"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Ribbon section with bottom button - Text"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Ribbon section with bottom button - Button label"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Ribbon section with bottom button - Button link"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Ribbon section with button in the right side - Text"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Ribbon section with button in the right side - Button label"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Ribbon section with button in the right side - Button link"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Contact us section"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Hide contact us section?"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Get in touch"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Contact us section title"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Contact us section subtitle"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Email address"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Send Message"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Button label"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Google maps section"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Pricing section"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer.php:1
+msgid "View PRO version"
+msgstr ""
+
+#: inc/template-tags.php:35
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:97
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:155
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: sections/about_us.php:1
+msgid "OUR HAPPY CLIENTS"
+msgstr ""
+
+#: sections/latest_news.php:19
+msgid "Latest news"
+msgstr ""
+
+#: sections/latest_news.php:136
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: sections/latest_news.php:140
+msgid "Next"
+msgstr "Следующий"
+
+#: sections/our_focus.php:1
+msgid "Our focus"
+msgstr ""
