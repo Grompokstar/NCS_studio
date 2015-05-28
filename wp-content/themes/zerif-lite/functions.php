@@ -353,6 +353,10 @@ function zerif_scripts()
     /* Vegas script */
 
     wp_enqueue_script('zerif_vegas_script', get_template_directory_uri() . '/js/jquery.vegas.min.js', array("jquery"), '20120206', true);
+
+    /* Anchor Scrolling script */
+
+    wp_enqueue_script('anchor_scrolling_script', get_template_directory_uri() . '/js/anchor_scrolling.js', array("jquery"), '0.1', true);
 	
 	/* scrollReveal script */
 	if ( !wp_is_mobile() ){

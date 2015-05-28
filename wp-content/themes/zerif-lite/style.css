@@ -1969,11 +1969,10 @@ width: -webkit-calc(100% / 4);
 	padding-bottom: 100px;
 }
 .about-us .big-intro {
-	text-align: right;
+	text-align: center;
 	font-weight: 300;
-	font-size: 60px;
+	font-size: 30px;
 	line-height: normal;
-	margin-top: -15px;
 }
 .about-us p {
 	text-align: left;
