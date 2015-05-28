@@ -4679,3 +4679,7 @@ body.custom-background {
 .zerif-copyright-box {
 	width: 100%;
 }
+
+a.post-edit-link {
+    float: right;
+}
