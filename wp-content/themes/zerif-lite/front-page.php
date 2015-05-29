@@ -372,11 +372,85 @@ if ( get_option( 'show_on_front' ) == 'page' ) {
 
 
 
+
+
 	/* CONTACT US */
 	$zerif_contactus_show = get_theme_mod('zerif_contactus_show');
 
 	if( isset($zerif_contactus_show) && $zerif_contactus_show != 1 ):
 		?>
+
+        <div id="contacts" class="white-text">
+                <div class="section-header">
+                    <h2>Контакты</h2>
+                </div>
+            <div class="contacts-content" data-scrollreveal="enter right after 0s over 1s">
+                <div class="row">
+                    <div class="col-md-3">
+                    </div>
+                    <div class="col-md-2">
+                        <span class="contact-label">Адрес:</span>
+                    </div>
+                    <div class="col-md-7">
+                        <span class="contact-text">РФ, Республика Татарстан, г.Зеленодольск, ул. Комарова 11а</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3">
+                    </div>
+                    <div class="col-md-2">
+                        <span class="contact-label">Время работы:</span>
+                    </div>
+                    <div class="col-md-7">
+                        <span class="contact-text">9:00-19:00</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3">
+                    </div>
+                    <div class="col-md-2">
+                        <span class="contact-label">Телефоны:</span>
+                    </div>
+                    <div class="col-md-7">
+                        <span class="contact-text">+7(84371) 73-700 - единая справочная</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3">
+                    </div>
+                    <div class="col-md-2">
+                        <span class="contact-label"></span>
+                    </div>
+                    <div class="col-md-7">
+                        <span class="contact-text">+7-9047-648-638 - установщик</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3">
+                    </div>
+                    <div class="col-md-2">
+                        <span class="contact-label"></span>
+                    </div>
+                    <div class="col-md-7">
+                        <span class="contact-text">+7-9503-195-494 - консультант в WhatsApp</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3">
+                    </div>
+                    <div class="col-md-2">
+                        <span class="contact-label">E-mail:</span>
+                    </div>
+                    <div class="col-md-7">
+                        <span class="contact-text">anirb@mail.ru</span>
+                    </div>
+                </div>
+            </div>
+
+            <script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=l-XJM_RhihdQpnle6IEuHyjuuRlGM0eQ&width=100%&height=400"></script>
+
+        </div>
+
 		<section class="contact-us" id="contact">
 			<div class="container">
 				<!-- SECTION HEADER -->
@@ -500,7 +574,10 @@ if ( get_option( 'show_on_front' ) == 'page' ) {
 			</div> <!-- / END CONTAINER -->
 
 		</section> <!-- / END CONTACT US SECTION-->
-		<?php
+
+
+
+            <?php
 	endif;
 
 }
